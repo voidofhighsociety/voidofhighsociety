@@ -7,9 +7,10 @@
 
 <h2>Certifications</h2>
 
+-CompTIA A+ Network
+-CompTIA A+ Cyber
 -CompTIA Secruity+
 -Google Cybersecurity Professional
--FEMA NIMS
 -Qualys Vulnerability Management
 
 <h2> 🤳 Connect with me:</h2>
