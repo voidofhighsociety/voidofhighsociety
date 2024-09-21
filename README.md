@@ -21,10 +21,11 @@
 
 <h2>Education & Certifications</h2>
 
--[A.A.S. Cybersecurity
--[CompTIA A+ Network
--[Google Cybersecurity Professional
--[CompTIA Secruity+
+- [A.A.S. Cybersecurity
+- [CompTIA A+ Network
+- [Google Cybersecurity Professional
+- [CompTIA Secruity+
+- [soon-to-be certificate
 
 
 <h2>📺 Favorite YouTube Videos</h2>
