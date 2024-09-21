@@ -8,10 +8,9 @@
 <h2>Certifications</h2>
 
 -CompTIA A+ Network
--CompTIA A+ Cyber
--CompTIA Secruity+
 -Google Cybersecurity Professional
--Qualys Vulnerability Management
+-CompTIA Secruity+
+
 
 <h2> 🤳 Connect with me:</h2>
 
