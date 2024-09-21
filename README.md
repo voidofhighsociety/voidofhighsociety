@@ -1,6 +1,6 @@
 <h1>Hi, I'm Donte! <br/><a href="https://www.linkedin.com/in/dontenicholson/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 cybersecurity Projects:</h2>
+<h2>:computer: cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
