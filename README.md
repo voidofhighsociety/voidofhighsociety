@@ -24,7 +24,7 @@
 - A.A.S. Cybersecurity
 - Google Cybersecurity Professional
 - CompTIA Secruity+
-- Microsoft IT Support Specialist
+- Google IT Support Professional
 
 
 <h2>:movie_camera: Favorite YouTube Videos</h2>
