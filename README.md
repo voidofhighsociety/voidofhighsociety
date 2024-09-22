@@ -22,10 +22,9 @@
 <h2>:books: Education & Certifications</h2>
 
 - A.A.S. Cybersecurity
-- CompTIA A+ Network
 - Google Cybersecurity Professional
 - CompTIA Secruity+
-- soon-to-be certificate
+- Microsoft IT Support Specialist
 
 
 <h2>:movie_camera: Favorite YouTube Videos</h2>
