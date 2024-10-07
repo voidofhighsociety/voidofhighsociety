@@ -22,7 +22,6 @@
 <h2>:books: Education & Certifications</h2>
 
 - A.A.S. Cybersecurity
-- Google IT Support 
 - Google Cybersecurity 
 - CompTIA Secruity+
 
