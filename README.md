@@ -2,12 +2,9 @@
 
 <h2>:computer: cybersecurity Projects:</h2>
 
-- <b>SIEM Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Simple Computer Network with Cisco Packet Tracer</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Phishing Email Analysis</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [SIEM Home Lab](https://github.com/voidofhighsociety/SIEM-Home-Lab)
+- [Simple Computer Network with Cisco Packet Tracer](https://github.com/voidofhighsociety/Simple-Network-with-Cisco-Packet-Tracer)
+- [Phishing Email Analysis](https://github.com/voidofhighsociety/Phishing-Email-Analysis)
  
 
 <h2>:books: Education & Certifications</h2>
