@@ -2,6 +2,7 @@
 
 <h2>:computer: cybersecurity Projects:</h2>
 
+- [Virtual Machine Home Lab](https://github.com/voidofhighsociety/Virtual-Machine-Home-Lab)
 - [SIEM Home Lab](https://github.com/voidofhighsociety/SIEM-Home-Lab)
 - [Simple Computer Network with Cisco Packet Tracer](https://github.com/voidofhighsociety/Simple-Network-with-Cisco-Packet-Tracer)
  
