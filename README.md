@@ -1,4 +1,4 @@
-<h1>Hi, I'm Donte! <br/><a href="https://www.linkedin.com/in/dontenicholson1/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Donte! <br/><a href="https://www.linkedin.com/in/dontenicholson1/">Security Specialist</a></h1>
 
 <h2>:computer: cybersecurity Projects:</h2>
 
